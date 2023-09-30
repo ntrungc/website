@@ -17,6 +17,7 @@
   "dependencies": {
     "@chakra-ui/icons": "^1.1.5",
     "@chakra-ui/react": "^1.8.3",
+    "@cloudflare/next-on-pages": "^1.6.3",
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
     "@fontsource/poppins": "^4.5.1",
@@ -39,6 +40,7 @@
     "remark-slug": "^7.0.1"
   },
   "devDependencies": {
+    "eslint-plugin-next-on-pages": "^1.6.3",
     "next-sitemap": "^1.6.203",
     "prettier": "^2.5.1"
   }
